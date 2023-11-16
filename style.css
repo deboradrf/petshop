@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;  
+}
+
+#btn-entrar, #btn-criar, #btn-pesquisar {
+    width: 100px;
+    background-color: #736ead;
+    color: white;
+}
+
+li a {
+    color: #736ead;
+    transition: 0.5s ease;
+}
+
+li a:hover {
+    color: black;
+    transform: scale(1.03);
+}
+
+.banner {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px; 
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;  
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.cards-1 {
+    width: 300px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+
+.cards-1:hover {
+    transform: scale(1.03);
+}
+
+.cards-1 img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px; 
+}
+
+.cards-2 {
+    width: 300px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+
+.cards-2:hover {
+    transform: scale(1.03);
+}
+
+.cards-2 img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px; 
+}
+
+.cards-3 {
+    width: 300px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+
+.cards-3:hover {
+    transform: scale(1.03);
+}
+
+.cards-3 img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;  
+}
+
+.cards-4 {
+    width: 300px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+
+.cards-4:hover {
+    transform: scale(1.03);
+}
+
+.cards-4 img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cards h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
