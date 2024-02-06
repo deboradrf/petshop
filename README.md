@@ -3,7 +3,7 @@
 
 ### 📚 Descrição
 Esse projeto simula uma página web de Petshop. <br>
-Desenvolvido em HTML, CSS e Bootstrap para fixação de conteúdo.
+Desenvolvido em HTML, CSS e Bootstrap para aula de Desenvolvimento de Interface Web.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
