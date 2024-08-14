@@ -21,7 +21,7 @@ li a:hover {
 }
 
 .banner {
-    width: 30%;
+    width: 50%;
     display: block;
     margin: 0 auto;
     margin-top: 50px; 
@@ -36,8 +36,8 @@ li a:hover {
 }
 
 .cards-1 {
-    width: 300px;
-    height: 180px;
+    width: 250px;
+    height: 150px;
     border: 1px solid black;
     border-radius: 10px;
     transition: 0.5s ease;
@@ -57,8 +57,8 @@ li a:hover {
 }
 
 .cards-2 {
-    width: 300px;
-    height: 180px;
+    width: 250px;
+    height: 150px;
     border: 1px solid black;
     border-radius: 10px;
     transition: 0.5s ease;
@@ -78,8 +78,8 @@ li a:hover {
 }
 
 .cards-3 {
-    width: 300px;
-    height: 180px;
+    width: 250px;
+    height: 150px;
     border: 1px solid black;
     border-radius: 10px;
     transition: 0.5s ease;
@@ -99,8 +99,8 @@ li a:hover {
 }
 
 .cards-4 {
-    width: 300px;
-    height: 180px;
+    width: 250px;
+    height: 150px;
     border: 1px solid black;
     border-radius: 10px;
     transition: 0.5s ease;
@@ -119,8 +119,28 @@ li a:hover {
     padding: 20px;
 }
 
-.cards h3 {
+.cards h4 {
     display: flex;
     justify-content: center;
     margin-top: 15px;
+}
+
+form {
+    display: flex;
+}
+
+@media only screen and (max-width: 870px) {
+   .navbar {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+   }
+
+   .nav {
+    margin-top: 20px;
+   }
+
+   .hidden-input, #btn-pesquisar {
+    display: none;
+   }
 }
