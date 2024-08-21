@@ -4,18 +4,17 @@
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
 </p>
 
-## 📚 Descrição
+### 📚 Descrição
 Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do curso de Análise e Desenvolvimento de Sistemas, que apresenta uma página web de um Petshop.
 
-## 🎨 Layout
+### 🎨 Layout
 <img src="https://github.com/deboradrf/petshop/assets/130398684/c5d7a629-6dbc-44fb-a293-2af71743ab9b">
 
-## ✔️ Tecnologias utilizadas
+### ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
 - ``CSS``
 - ``Bootstrap``
 
-## 📁 Acesso ao projeto
-Hospedado no Netlify <br>
-Link: https://petshop-deboradrf.netlify.app
+### 📁 Acesso ao projeto
+Hospedado no Netlify `https://petshop-deboradrf.netlify.app`
