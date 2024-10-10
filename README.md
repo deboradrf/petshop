@@ -11,10 +11,10 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 <img src="https://github.com/deboradrf/petshop/assets/130398684/c5d7a629-6dbc-44fb-a293-2af71743ab9b">
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``Bootstrap``
+- Visual Studio Code
+- HTML
+- CSS
+- Bootstrap
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://petshop-deboradrf.netlify.app`
